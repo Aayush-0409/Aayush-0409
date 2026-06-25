@@ -1,5 +1,5 @@
 # 💫 About Me:
-name        : Aayush Mehta<br>location    : Ahmedabad, Gujarat, India<br>education   : MCA @ GLS University (Pursuing) | BCA @ HJ Doshi (CGPA 7.4)<br>role        : Data Scientist | AI/ML Engineer<br>speciality  : Streamlit · Django · Kaggle · Python <br>focus       : Real World problems , API Integration<br>open_to     : Full-time roles · Internships · Freelance · Remote<br>contact     : aayushkmehta04@gmail.com<br><br>
+name        : Aayush Mehta<br>location    : Ahmedabad, Gujarat, India<br>education   : MCA @ GLS University (Pursuing) | BCA @ HJ Doshi IT Institute (CGPA 7.4)<br>role        : Data Scientist | AI/ML Engineer<br>speciality  : Streamlit · Django · Kaggle · Python <br>focus       : Real World problems , API Integration<br>open_to     : Full-time roles · Internships · Freelance · Remote<br>contact     : aayushkmehta04@gmail.com<br><br>
 
 
 ## 🌐 Socials:
